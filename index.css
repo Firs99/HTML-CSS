@@ -1,0 +1,10 @@
+div{
+width: 50%;
+height: 50vh;
+background: rgba(255, 0, 0, 0.281);
+cursor: crosshair
+}
+
+a{
+    border: dashed rebeccapurple;
+}
